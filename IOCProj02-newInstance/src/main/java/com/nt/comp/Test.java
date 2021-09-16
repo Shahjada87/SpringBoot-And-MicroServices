@@ -6,6 +6,7 @@ public class Test {
 	
 	
 	//Alt + shift +s , s
+	
 	@Override
 	public String toString() {
 		return "Test [a=" + a + ", b=" + b + "]";
